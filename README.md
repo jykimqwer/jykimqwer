@@ -14,7 +14,8 @@
 <img src="https://img.shields.io/badge/Notion -000000?style=plastic&logo=notion&logoColor=white"> 
 
 ***
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=jykimqwer&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jykimqwer&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ***
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jykimqwer&repo=ParkingManagementSystem-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
