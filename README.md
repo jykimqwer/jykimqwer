@@ -16,6 +16,8 @@
 ***
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=jykimqwer&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true)
 
+***
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jykimqwer&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **jykimqwer/jykimqwer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
